@@ -1,0 +1,40 @@
+header {
+    background-color: var(--color-primary);
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.devmovie-nav-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #ffffff;
+
+}
+
+.devmovie-nav-content h1 {
+    margin: 0;
+    font-weight: 700;
+    font-size: 36px;
+
+}
+
+.devmovie-title-content {
+    display: flex;
+    max-width: 150px;
+    margin-right: 700px;
+    opacity: 80%;
+
+}
+
+.devmovie-contact-content {
+    display: flex;
+    align-items: center;
+
+}
+
+.devmovie-contact-link {
+    margin: 0 0 0 10px;
+    font-size: 18px;
+}
