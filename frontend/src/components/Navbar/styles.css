@@ -1,41 +1,34 @@
 header {
-    background-color: var(--color-primary);
-    height: 80px;
-    display: flex;
-    align-items: center;
+  background-color: var(--color-primary);
+  background-image: url('assets/img/background.png');
+  height: 80px;
+  display: flex;
+  align-items: center;
 }
 
 .devmovie-nav-content {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    color: #ffffff;
-
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #ffffff;
 }
 
 .devmovie-nav-content h1 {
-    margin: 0;
-    font-weight: 700;
-    font-size: 36px;
-    text-shadow: black 0.2em 0.1em 0.2em;
-
-}
-
-.devmovie-title-content {
-    display: flex;
-    max-width: 150px;
-    margin-right: 700px;
-    opacity: 80%;
-
+  margin: 0;
+  font-weight: 600;
+  font-size: 32px;
+  text-shadow: black 0.2em 0.1em 0.2em;
 }
 
 .devmovie-contact-content {
-    display: flex;
-    align-items: center;
-
+  display: flex;
+  align-items: center;
+  
 }
 
 .devmovie-contact-link {
-    margin: 0 0 0 10px;
-    font-size: 18px;
+  margin: 0 0 0 10px;
+  font-size: 16px;
+  color: #ffffff;
+  text-shadow: black 0.2em 0.1em 0.2em;
 }
