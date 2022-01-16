@@ -21,14 +21,11 @@ INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Star Wars: Epis�
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Star Wars Rebels: A Fagulha de Uma Rebelião', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/5lERsrmxhb6ggGQZDHe05qeNCnD.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Star Wars: O Império Contra-Ataca V', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/nJcAQO0zauDTp72SEMcneIDjA7c.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'O Livro de Boba Fett', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg');
-INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Velozes & Furiosos 5: Operação Rio (2011)', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/lvSxooYCRuF3S2kHWXYTrcOtYco.jpg');
-INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Velozes & Furiosos 6 (2013)', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/mRfI3y2oAd7ejur2di09xC9niqp.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Star Wars: O Retorno de Jedi VI', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/iP2tEA2A77qhbhRfcFkiD6WFOqH.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'The Star Wars Holiday Special', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/qfgVAwApyHc1CR7KQVAxTLhz8ED.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Star Wars LEGO: Especial de Festas', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/1Lhc32P0a62BgMFgd20wXR1osR3.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Star Wars LEGO: A Ameaça Padawan', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/hVl0qfLZ5loznDgQ0HxCTZqvZhz.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Star Wars: A Guerra dos Clones', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/uE101CHyKzeK4UU2j9LVqWfC2hN.jpg');
-INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Velozes e Furiosos (2001)', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jY9ef5nqY4xIIMu3yzW3qamUCoi.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Clube da Luta', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/hZkgoQYus5vegHoetLkCJzb17zJ.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Guerra Mundial Z', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/31VpBgUX5O4Z3dn5ZbX8HLqoXH3.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Harry Potter e as Relíquias da Morte - Parte 1', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/vcrgU0KaNj5mKUCIQSUdiQwTE9y.jpg');
@@ -41,9 +38,6 @@ INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Interestelar', '
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Contato', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/yFkUPqBuUnbhYbQL8VFpTrAT9za.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Duna', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Aquaman', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/2cUsDz4TzFYHrKktT1bKHHQ7Cgm.jpg');
-INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, '+ Velozes + Furiosos (2003)', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/z3ioibdjWZOYeXjoiabFOFOfPI3.jpg');
-INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Velozes e Furiosos: Desafio em Tóquio (2006)', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/dMARcKLrv0T7kVJ4iQR3vqTTdtT.jpg');
-INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Velozes e Furiosos 4 (2009)', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/3ZiM6gm2XL8qnhZCXsTjixvaH4v.jpg');
 INSERT INTO tb_score(movie_id, user_id, value) VALUES (1, 1, 5.0);
 INSERT INTO tb_score(movie_id, user_id, value) VALUES (1, 2, 4.0);
 INSERT INTO tb_score(movie_id, user_id, value) VALUES (2, 1, 3.0);
