@@ -36,6 +36,6 @@ Projeto criado na Semana Sprint Boot React - DevSuperior
 
 
 ## Link do Projeto:
-[Netlify](https://dsvendas-rebels.netlify.app/) [Heroku sleeping, wait 10 seconds to start the Backend]<p>
+[Netlify](https://devmovie-wars.netlify.app/) [Heroku sleeping, wait 10 seconds to start the Backend]<p>
 
 <img src="https://github.com/TiagoABarbosa/sprint_boot-sds3/blob/8287bf7b8cf83d596e952c3d62fc906450adfbcd/frontend/src/assets/img/ds-dark.png" width="300">
